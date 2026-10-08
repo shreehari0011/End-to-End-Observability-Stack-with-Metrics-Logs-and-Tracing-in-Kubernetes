@@ -1,6 +1,6 @@
 # End-to-End-Observability-Stack-with-Metrics-Logs-and-Tracing-in-Kubernetes
 
-# End-to-End-Observability-Stack-with-Metrics-Logs-and-Tracing-in-Kubernetes
+
 This project implements an end-to-end observability stack on Kubernetes to provide complete visibility into application performance and system health. It integrates metrics, centralized logging, and distributed tracing to help developers and SREs monitor, debug, and optimize microservices efficiently.
 
 # 🧭 Architecture Diagram
